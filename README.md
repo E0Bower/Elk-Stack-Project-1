@@ -83,7 +83,7 @@ Navigate to you /etc/ansible directory and nano into the hosts file.
   
   comment out [webservers] and [elk]
   
-  under [webservers] enter the internal IP's of your Web VMs followed by ansible_python_interpreter=user/bin/python
+  under [webservers] enter the internal IP's of your Web VMs followed by ansible_python_interpreter=user/bin/python3
   
   [webservers]
   
