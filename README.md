@@ -100,7 +100,8 @@ Navigate to you /etc/ansible directory and nano into the hosts file.
   $ nano install-elk.yml
   
  A copy of an elk installation playbook is provided below. 
-
+ 
+https://github.com/E0Bower/Elk-Stack-Project-1/blob/dc30b5251c2a0be3923a01c191b5a77046bf6dbc/Ansible/install-elk.yml
 
 
 Once your elk playbook has finished running, create the files and roles directories. these directories will house your filebeat and metricbeat configurations files and playbooks. 
