@@ -101,7 +101,7 @@ Navigate to you /etc/ansible directory and nano into the hosts file.
   
  A copy of an elk installation playbook is provided below. 
 
-[install playbook]
+
 
 Once your elk playbook has finished running, create the files and roles directories. these directories will house your filebeat and metricbeat configurations files and playbooks. 
 
